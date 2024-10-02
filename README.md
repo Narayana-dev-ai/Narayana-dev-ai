@@ -1,4 +1,3 @@
-<h1>Hello There !... This is Narayan 💻</h1>
 <div style="width: 100%;"><img src="https://github.com/Narayana-dev-ai/Narayana-dev-ai/blob/main/textAnimation.svg" alt="Narayana"/></div>
 <br>
 

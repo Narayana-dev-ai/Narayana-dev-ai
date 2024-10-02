@@ -13,7 +13,7 @@
 
 
 <h2>Connect With Me: </h2>
-<a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-841057196">LinkedIn</a>
+<a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-841057196" target="_blank">LinkedIn</a>
 
 
 <h2>Languages and Tools</h2>

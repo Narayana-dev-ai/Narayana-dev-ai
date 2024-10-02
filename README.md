@@ -17,4 +17,4 @@
 
 
 <h2>Languages and Tools</h2>
-<spna><h4>React Js</h4></spna> <spna><h4>Java</h4></spna>
+<p dir="auto"><h4>React Js</h4> <h4>Java</h4></p>

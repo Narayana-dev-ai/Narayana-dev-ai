@@ -14,3 +14,7 @@
 
 <h2>Connect With Me: </h2>
 <a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-841057196">LinkedIn</a>
+
+
+<h2>Languages and Tools</h2>
+<h4>React Js</h4><h4>Java</h4>

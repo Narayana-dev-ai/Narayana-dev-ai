@@ -1,9 +1,9 @@
  <div className="container">
-      <p className="css-text">
-        I need YOU <>&#10084;&#65039;</>
-      </p>
-    </div>
-
+   <p className="css-text">
+        I need YOU &#10084;&#65039;
+    </p>
+ </div>
+  
 <ul>
   <li>🔭 Focusing on FullStack (Frontend + Backend ).😎</li>
   <li>🌱 Trying to become an expert in Fullstack development ❤</li>

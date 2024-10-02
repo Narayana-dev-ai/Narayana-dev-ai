@@ -17,4 +17,4 @@
 
 
 <h2>Languages and Tools</h2>
-<p dir="auto"><h4>React.js</h4> <h4>Java</h4> <h4>AWS</h4> <h4>TypeScript</h4> <h4>JavaScript</h4> <h4>Redux</h4> <h4>Node.js</h4> <h4>Next.js</h4> <h4>Python</h4> <h4>Docker</h4> <h4>HTML5</h4> <h4>CSS || SASS</h4> <h4>MySQL</h4> <h4>GIT</h4> <h4>Jest</h4> <h4>React Testing Library</h4> <h4>Junit</h4> <h4>Cucumber Testing</h4> <h4>PySpark</h4></p>
+<h4>React.js</h4> <h4>Java</h4> <h4>AWS</h4> 

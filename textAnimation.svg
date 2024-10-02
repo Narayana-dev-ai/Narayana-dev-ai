@@ -3,10 +3,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes typing {
-            from {
+            0% {
                 width: 0;
             }
-            to {
+            100% {
                 width: 100%;
             }
         }

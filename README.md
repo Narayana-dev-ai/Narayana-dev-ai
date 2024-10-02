@@ -13,4 +13,4 @@
 
 
 <h2>Connect With Me: </h2>
-<a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-84105719">LinedIn🔗</a>
+<a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-841057196"><i class="fa-brands fa-linkedin"></i></a>

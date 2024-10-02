@@ -17,4 +17,4 @@
 
 
 <h2>Languages and Tools</h2>
-<h4>React Js</h4><h4>Java</h4>
+<spna>React JS</spna><h4>React Js</h4><h4>Java</h4>

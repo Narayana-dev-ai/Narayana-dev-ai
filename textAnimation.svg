@@ -29,7 +29,7 @@
       </style>
 
       <div class="container">
-        <p className="css-text">Hello There !... This is Narayan 💻</></p>
+        <p class="css-text">Hello There !... This is Narayan 💻</></p>
       </div>
     </div>
   </foreignObject>

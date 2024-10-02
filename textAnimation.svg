@@ -2,29 +2,31 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+      @keyframes typing {
+        from {
+            width: 0;
+        }
+        to {
+            width: 100%;
+        }
+    }
       .container {
-  display: inline-block;
-  margin: 20%;
+        width: 100%;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
-  .css-text {
-    overflow: hidden;
-    font-size: 2rem;
-    font-weight: 700;
-    color: rgb(196, 24, 141);
-    border-right: 0.15em solid orange;
-    white-space: nowrap;
-    animation: typing 5s steps(50, end) infinite;
-  }
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
+        .css-text {
+            overflow: hidden;
+            font-size: 2rem;
+            font-weight: 700;
+            color: rgb(196, 24, 141);
+            border-right: 0.15em solid orange;
+            white-space: nowrap;
+            animation: typing 5s steps(50, end) infinite;
+        }
+    }
        
       </style>
 

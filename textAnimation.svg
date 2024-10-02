@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      .container {
+  display: inline-block;
+  margin: 20%;
+
+  .css-text {
+    overflow: hidden;
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(196, 24, 141);
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+    animation: typing 5s steps(50, end) infinite;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+       
+      </style>
+
+      <div className="container">
+      <p className="css-text">
+         Hello There !... This is Narayan 💻
+      </p>
+    </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -10,3 +10,7 @@
   <li>🥅 Goals: Learn Cloud on AWS.</li>
   <li>⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣</li>
 </ul>
+
+
+<h2>Connect With Me: </h2>
+<a href="https://www.linkedin.com/in/narayanareddy-lakkireddy-84105719">LinedIn🔗</a>

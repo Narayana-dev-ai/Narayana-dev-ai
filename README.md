@@ -1,4 +1,4 @@
- <div className="container">
+ <div className="container" style={{color: blue}}>
    <p className="css-text">
         Hello There !... This is Narayan &#10084;&#65039;
     </p>

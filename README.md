@@ -17,4 +17,8 @@
 
 
 <h2>Languages and Tools</h2>
-<h4>React.js</h4> <h4>Java</h4> <h4>AWS</h4> 
+<ul>
+  <li>React Js</li>
+  <li>Java</li>
+  <li>AWS</li>
+</ul>

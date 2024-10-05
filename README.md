@@ -17,7 +17,5 @@
 
 
 <h2>Languages and Tools</h2>
-| Attempt         | #1    | #2    |
-|     :-----:     | :---: | :---: |
-| Seconds         | 301   | 283   |
-| Seconds         | 301   | 283   |
+
+| <h4>React Js</h4> | Java | AWS | TypeScript | JavaScript | Python | PySpark | MySQL | 

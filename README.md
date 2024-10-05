@@ -18,4 +18,4 @@
 
 <h2>Languages and Tools</h2>
 
-| React Js | Java | AWS | TypeScript | JavaScript | Python | PySpark | MySQL | Material UI | Tailwand CSS | CSS | SASS | HTML5 | Redux Js | Next Js | GIT | Jest | React Testing Library | Cucumber Testing | Junit Testing | React Hooks | User Interface Design | Docker | Kubernates | Gremlin Query Language (AWS Neptune) |
+<h4>| React Js | Java | AWS | TypeScript | JavaScript | Python | PySpark | MySQL | Material UI | Tailwand CSS | CSS | SASS | HTML5 | Redux Js | Next Js | GIT | Jest | React Testing Library | Cucumber Testing | Junit Testing | React Hooks | User Interface Design | Docker | Kubernates | Gremlin Query Language (AWS Neptune) | Maven | VS Code |</h4>

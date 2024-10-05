@@ -17,9 +17,7 @@
 
 
 <h2>Languages and Tools</h2>
-<ul>
-  <li>React Js</li>
-  <li>Java</li>
-  <li>AWS</li>
-</ul>
+
+| :-----: | :---: | :---: |
+| Seconds | 301   | 283   |
 | Seconds | 301   | 283   |

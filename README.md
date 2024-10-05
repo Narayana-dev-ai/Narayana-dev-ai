@@ -22,3 +22,7 @@
   <li>Java</li>
   <li>AWS</li>
 </ul>
+
+| Attempt | #1    | #2    |
+| :-----: | :---: | :---: |
+| Seconds | 301   | 283   |
